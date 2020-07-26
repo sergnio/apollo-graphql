@@ -2,6 +2,9 @@
 
 This is the fullstack app for the [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html). 🚀
 
+Continue on here:  
+https://www.apollographql.com/docs/tutorial/resolvers/
+
 ## File structure
 
 The app is split out into two folders:
